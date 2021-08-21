@@ -23,7 +23,7 @@ class StarPattern{
              }
              }
 
-              
+              Syste.out.println("Program Execute Successfully");
                
     }
     
